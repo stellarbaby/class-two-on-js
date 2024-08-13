@@ -47,3 +47,13 @@ const person = {
 
 console.log(person);
 
+let d, e, f, myName, classOf, position;
+d = 5; e = 6; f = 7; myName = "Oluwatobiloba Stellar"; classOf = 24; position = "Law graduate";
+
+console.log(d);
+console.log(e);
+console.log(f);
+console.log(myName);
+console.log(classOf);
+console.log(position);
+
